@@ -111,12 +111,13 @@ h3 {
     /*background: url(../img/flowme.svg) no-repeat center center;*/
     background-size: cover;
     padding-bottom: 50px;
-    padding-top: 50px;
+    
 }
 
 #about img {
     margin-top: 10px;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom:20px;
 }
 
 #about h2 {
