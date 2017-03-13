@@ -92,8 +92,8 @@ h3 {
     background: url(../img/head.svg) no-repeat center center;
     background-size: cover;
     /*The padding for bottom and top settings will expand the height of header area*/
-    padding-bottom: 100px;
-    padding-top: 100px;
+    padding-bottom: 200px;
+    padding-top: 200px;
 }
 
 #top h1 {
@@ -116,6 +116,7 @@ h3 {
 
 #about img {
     margin-top: 10px;
+    height: 500px;
 }
 
 #about h2 {
