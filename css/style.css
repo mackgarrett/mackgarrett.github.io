@@ -92,14 +92,14 @@ h3 {
     background: url(../img/head.svg) no-repeat center center;
     background-size: cover;
     /*The padding for bottom and top settings will expand the height of header area*/
-    padding-bottom: 270px;
+    padding-bottom: 200px;
     padding-top: 200px;
 }
 
 #top h1 {
     /*    Set the h1 color as white*/
     color: white;
-    text-align: center;
+    /*text-align: center;*/
     font-size: 200px;
 }
 /* End of top hero area*/
@@ -116,7 +116,7 @@ h3 {
 
 #about img {
     margin-top: 10px;
-    height: 700px;
+    padding: 20px;
 }
 
 #about h2 {
