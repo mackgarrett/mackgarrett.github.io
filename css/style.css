@@ -58,7 +58,7 @@ h6 {
 }
 
 h1 {
-    font-family: 'BeonRegular'; 
+    font-family:'Sue Ellen Francisco', cursive;
     font-weight: normal; 
     font-size: 30px;
     color: white; 
@@ -100,6 +100,7 @@ h3 {
     /*    Set the h1 color as white*/
     color: white;
     text-align: center;
+    text-size: 150px;
 }
 /* End of top hero area*/
 
