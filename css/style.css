@@ -108,7 +108,7 @@ h3 {
 /*about section*/
 #about {
     background-color: #b3f0ff;
-    background: url(../img/flowme.svg) no-repeat center;
+    background: url(../img/flowme.svg) no-repeat center center;
     background-size: cover;
     padding-bottom: 200px;
     padding-top: 350px;
@@ -395,6 +395,10 @@ progress::-moz-progress-bar {
     color: white;
     font-family: 'Sue Ellen Francisco', cursive;
 
+}
+
+#contact p {
+    font-size: 10px;
 }
 
 #contact .row {
