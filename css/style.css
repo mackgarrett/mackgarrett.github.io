@@ -109,6 +109,7 @@ h3 {
 #about {
     padding-top: 300px;
     padding-bottom: 305px;
+    padding-left: 150px;
     background-color: #b3f0ff;
     background: url(../img/flowme.svg) no-repeat center center;
     background-size: cover;
