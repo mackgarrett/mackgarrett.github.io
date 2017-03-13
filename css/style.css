@@ -100,7 +100,7 @@ h3 {
     /*    Set the h1 color as white*/
     color: white;
     text-align: center;
-    font-size: 150px;
+    font-size: 200px;
 }
 /* End of top hero area*/
 
@@ -373,7 +373,7 @@ progress::-moz-progress-bar {
     /*    background-color: aquamarine;*/
     background: url(../img/lights.jpg) no-repeat center center;
     background-size: cover;
-    padding: 50px;
+    padding: 80px;
     height: 90%;
 }
 
