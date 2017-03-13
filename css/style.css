@@ -89,7 +89,7 @@ h3 {
     background-color: aqua;
     font-family: 'Open Sans', sans-serif;
     /*The following two lines are going to add a background image to the top header area*/
-    background: url(../img/headerpic.jpg) no-repeat center center;
+    background: url(../img/head.svg) no-repeat center center;
     background-size: cover;
     /*The padding for bottom and top settings will expand the height of header area*/
     padding-bottom: 300px;
