@@ -454,9 +454,9 @@ progress::-moz-progress-bar {
 /*Change the font size of your name on the navigation bar*/
 
 .navbar .navbar-brand {
-    font-family: 'BeonRegular'; 
+    font-family:'Sue Ellen Francisco', cursive; 
     font-size: 2em;
-    color: #333333 !important;
+    color: white !important;
 }
 
 
