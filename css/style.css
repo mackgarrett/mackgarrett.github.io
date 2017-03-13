@@ -6,7 +6,7 @@
 /*Typography*/
 
 body {
-    font-family: 'Cabin Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 16px;
     line-height: 1.5em;
@@ -53,7 +53,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     /*font-weight: 400;*/
 }
 
@@ -67,7 +67,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'BeonRegular'; 
+    font-family: 'Roboto', sans-serif;
     font-weight: normal; 
     font-size: 30px;
     color: white; /*grey color*/
@@ -75,7 +75,7 @@ h2 {
 }
 
 h3 {
-    font-family: 'BeonRegular';
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
     color: black;
 }
@@ -100,7 +100,7 @@ h3 {
     /*    Set the h1 color as white*/
     color: white;
     text-align: center;
-    text-size: 150px;
+    font-size: 150px;
 }
 /* End of top hero area*/
 
@@ -378,7 +378,7 @@ progress::-moz-progress-bar {
 
 #contact h2 {
     color: white;
-    font-family: 'Cabin Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 20px;
 
 }
@@ -396,7 +396,7 @@ progress::-moz-progress-bar {
 .email {
     padding: 10px;
     font-size: 20px;
-    font-family: 'Cabin Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
     /*    set the border for the email information*/
     border: 2px white solid; 
 }
