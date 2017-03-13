@@ -107,8 +107,8 @@ h3 {
 
 /*about section*/
 #about {
-    padding-top: 50px;
-    padding-bottom: 125px;
+    padding-top: 300px;
+    padding-bottom: 305px;
     background-color: #b3f0ff;
     background: url(../img/flowme.svg) no-repeat center center;
     background-size: cover;
