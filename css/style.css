@@ -60,7 +60,7 @@ h6 {
 h1 {
     font-family:'Sue Ellen Francisco', cursive;
     font-weight: normal; 
-    font-size: 30px;
+    font-size: 100px;
     color: white; 
     text-align: center;
 
@@ -93,7 +93,7 @@ h3 {
     background-size: cover;
     /*The padding for bottom and top settings will expand the height of header area*/
     padding-bottom: 300px;
-    padding-top: 300px;
+    padding-top: 350px;
 }
 
 #top h1 {
