@@ -148,6 +148,7 @@ h3 {
     background-color: black;
     text-align: center;
     color: white;
+    padding-top: 100px;
 }
 
 /*portfolio*/
@@ -380,14 +381,15 @@ progress::-moz-progress-bar {
 
 #contact h2 {
     color: white;
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 35px;
 
 }
 
 #contact h3 {
     font-size: 3.5em;
     color: white;
+    font-family: 'Sue Ellen Francisco', cursive;
 
 }
 
@@ -398,9 +400,9 @@ progress::-moz-progress-bar {
 .email {
     padding: 10px;
     font-size: 20px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Sue Ellen Francisco', cursive;
     /*    set the border for the email information*/
-    border: 2px white solid; 
+   
 }
 
 .social {
