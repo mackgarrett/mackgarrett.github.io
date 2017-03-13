@@ -92,8 +92,8 @@ h3 {
     background: url(../img/head.svg) no-repeat center center;
     background-size: cover;
     /*The padding for bottom and top settings will expand the height of header area*/
-    padding-bottom: 180px;
-    padding-top: 200px;
+    padding-bottom: 190px;
+    padding-top: 210px;
 }
 
 #top h1 {
@@ -107,6 +107,7 @@ h3 {
 
 /*about section*/
 #about {
+    margin-top: 20px;
     background-color: #b3f0ff;
     /*background: url(../img/flowme.svg) no-repeat center center;*/
     background-size: cover;
@@ -115,9 +116,9 @@ h3 {
 }
 
 #about img {
-    margin-top: 10px;
-    padding-top: 20px;
-    padding-bottom:20px;
+    margin-top: 30px;
+    padding-top: 70px;
+    padding-bottom:50px;
 }
 
 #about h2 {
