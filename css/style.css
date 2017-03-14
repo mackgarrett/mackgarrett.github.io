@@ -119,6 +119,8 @@ h3 {
     margin-top: 30px;
     padding-top: 70px;
     padding-bottom:50px;
+    width: 100%;
+    position:relative;
 }
 
 #about h2 {
